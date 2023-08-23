@@ -39,7 +39,7 @@ Notes related to personal journey on AWS, Azure Certifications
 [Azure Self-Paced Training](https://learn.microsoft.com/en-us/training/)
 [Exam Ref AZ-900 Microsoft Azure Fundamentals, 3rd Edition](https://www.amazon.com/Exam-AZ-900-Microsoft-Azure-Fundamentals/dp/0137955146/)
 
-#### Orielly Resources
+#### Oreilly Resources
 1. [Exam Ref AZ-900 Microsoft Azure Fundamentals, 3rd Edition](https://learning.oreilly.com/library/view/exam-ref-az-900/9780137955107/)
 2. [Microsoft Azure AI Fundamentals (AI-900) Certification](https://learning.oreilly.com/api/v1/continue/27883591VIDEOPAIML/)
 3. [AI-900: Microsoft Azure AI Fundamentals (Pearson Practice Test)](https://learning.oreilly.com/certifications/9780137854400/)
