@@ -36,8 +36,9 @@ Notes related to personal journey on AWS, Azure Certifications
 - [Homepage Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 
 #### Resources
-[Azure Self-Paced Training](https://learn.microsoft.com/en-us/training/)
-[Exam Ref AZ-900 Microsoft Azure Fundamentals, 3rd Edition](https://www.amazon.com/Exam-AZ-900-Microsoft-Azure-Fundamentals/dp/0137955146/)
+- [Azure Self-Paced Training](https://learn.microsoft.com/en-us/training/)
+- [Exam Ref AZ-900 Microsoft Azure Fundamentals, 3rd Edition](https://www.amazon.com/Exam-AZ-900-Microsoft-Azure-Fundamentals/dp/0137955146/)
+- [AZ-900 Certification Guide](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 
 #### Oreilly Resources
 1. [Exam Ref AZ-900 Microsoft Azure Fundamentals, 3rd Edition](https://learning.oreilly.com/library/view/exam-ref-az-900/9780137955107/)
