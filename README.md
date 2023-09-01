@@ -16,6 +16,9 @@ Notes related to personal journey on AWS, Azure Certifications
 3. [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/?ch=tile&tile=getstarted)
 4. [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/?ch=tile&tile=getstarted)
 
+#### Resources
+1. [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
+2. [AWS Overview Whitepaper](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
 
 ## Azure
 
